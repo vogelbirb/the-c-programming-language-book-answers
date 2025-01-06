@@ -1,0 +1,2 @@
+# The C Programming Language Solutions
+This repository contains solutions to most of the problems in the book `The C Programming Language` (2nd Endition) by `Brian Kernighan and Dennis Ritchie`. Some common functions are located in `common.h`, so some solutions might need to be compiled with `common.c`.
